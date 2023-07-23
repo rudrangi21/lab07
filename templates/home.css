@@ -1,0 +1,27 @@
+.box {
+  position: absolute;
+  border-radius: 20px;
+  background-color: aqua;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  right: 5%;
+  height: 60%;
+  padding: 10px;
+
+  margin: 0;
+}
+
+.box2 {
+  position: absolute;
+  border-radius: 20px;
+  background-color: aqua;
+  top: 10%;
+  left: 20%;
+  width: 50%;
+  right: 5%;
+  height: 60%;
+  padding: 10px;
+
+  margin: 0;
+}
